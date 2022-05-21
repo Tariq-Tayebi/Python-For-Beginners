@@ -1,0 +1,50 @@
+# Python for beginners
+Tariq Tayebi
+## What is Python
+Python is a high level computer programing language used by millions of people for its high-level built in data structures, dynamic typing and binding great for scripting and glue language.
+
+Python's easy to learn code makes it popular for beginners to learn to code. Its syntax error page tells you when you have written imporoper code and it can be used in replit for free.
+
+### Layout on Replit
+Before we start coding we need to learn how to navigate the platform properly.
+ You can use python for free on `replit.com`.
+ 
+ https://replit.com
+ 
+ (Press on the link to take you to replit.com)
+
+ 1. Once you are redirected to the replit home page,you will see a `Login` and a `Sign up` button on the top right corner of your screen (unless you are logged in. Then you can skip this step.) Press on the `Login` button to login or the `Sign up ` button if you don't have an account.
+ 2. To login, you will need to type in your username and password in the space provided or sign up with `Google`. To sign up, you can type in your email then create a username and password or sign up with `Google`.
+
+### Home Page
+
+After you have created an account or logged in you will reach the homepage. You can see your account by clicking on the three lines on the top left of your screen and clicking the upside down `^` and edit it. To create an account, press the `+` on the top right corner on your screen. A screen will pop up. Press on the words under the word `Template`. You can then choose from a list of coding scripts to use. Today you will be using `Python`. It should already be set for you but if not just click on it. Now you can click `Create Repl`.
+
+### Console:
+When you press on `Create Repl`, it will take you to a page where you can start coding. You will find that there are two halves, black and white on your screen. The white halve is where you can write your code and the black is whatever you created using the code. After you have finished coding, you can click on the button that states the name of your title and give it a description and publish it. The ` > Run` button to make the vomputer run your code.
+##
+## Coding 
+### Print("")
+
+The first and most simplest code there is in `Python` is ``print("")``. If you want to show a word on the `console (black space)` then you need to use this code. Start by writing `Hello World`. You wouldn't write `Hello World` or `<p> Hello World </p>` by itself like `Nix` and `HTML`. You would have to write it like this:
+
+`print("Hello World")`. You can write other things as well. You can write anything as long as it does not include a `()` or `""` since it will disrupt the code.
+
+### Lists, Tuples and Sets
+You can create a `List` to store information. 
+first name your list.
+
+I named mine `colours`. Now add the variables. I did `colours =  ("red", "blue", "green")`. You can change your variables and name of the list. to add a variable, just type `add.whatever you named your list("variable here")`
+Sets are like Lists but put your variables in any random order. You use {} instead. However in tuples you cannot add or take away any variable. You use [].
+#
+## Thats all for this website. Go to my second website for learning more about Python
+
+### Have Fun Coding!
+
+ 
+
+ 
+ 
+ 
+
+ 
